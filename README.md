@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90fcMHfPT8OVKnw8U1iFUiZ4wKz6V-erh4gUoi-2xbb7u8VsA_8YwuvWpl1hDH4Pw2Wc&usqp=CAU)](https://www.turing.com)
+[![MasterHead](https://cdn.pixabay.com/photo/2016/04/06/08/47/wire-rack-1311161_1280.jpg)](https://pixabay.com/)
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgzMDc4Y2ZneG9zMjEwZXowNXpjZHd4eWkwbG81dnB4N3FwaGRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif"
