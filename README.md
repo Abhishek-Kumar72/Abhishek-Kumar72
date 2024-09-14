@@ -1,4 +1,4 @@
-[![MasterHead]("C:\Users\Administrator\Desktop\wire-rack-1311161_1280.png")](https://pixabay.com/)
+[![MasterHead]("C:\Users\Administrator\Desktop\wire-rack-1311161_1280.png")]
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgzMDc4Y2ZneG9zMjEwZXowNXpjZHd4eWkwbG81dnB4N3FwaGRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif"
